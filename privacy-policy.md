@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Helga | Tietosuojakäytäntö - Integritetspolicy - Privacy Policy
+title: "Helga | Tietosuojakäytäntö - Integritetspolicy - Privacy Policy"
+locale: ""
 ---
 # Tietosuojakäytäntö
 
