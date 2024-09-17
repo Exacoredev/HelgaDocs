@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tietosuojakäytäntö - Integritetspolicy - Privacy Policy
+title: Helga | Tietosuojakäytäntö - Integritetspolicy - Privacy Policy
 ---
 # Tietosuojakäytäntö
 

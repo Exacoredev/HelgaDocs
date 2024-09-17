@@ -1,9 +1,10 @@
-# title: Your Site Title
+# title: Helga | Tietosuojakäytäntö - Integritetspolicy - Privacy Policy
 # email: youremail@example.com
 # description: "A description of your site"
 # baseurl: "" # Base URL for the site (e.g., /blog)
 # url: "http://yourdomain.com" # URL of your site
 # theme: minima # Default theme is "minima"
+locale: 
 
 # Markdown Processor Settings
 kramdown:
