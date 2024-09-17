@@ -7,7 +7,7 @@ locale: ""
 
 **Johdanto**
 
-Tervetuloa kunnalliseen pysäköinninvalvontasovellukseen ("Sovellus"). Tämä tietosuojakäytäntö selittää, kuinka keräämme, käytämme ja suojaamme henkilökohtaisia tietojasi, kun käytät sovellustamme. Käyttämällä sovellusta hyväksyt tietojesi keräämisen ja käytön tämän käytännön mukaisesti.
+Tervetuloa kunnaliseen pysäköinninvalvontasovellukseen Helga ("Sovellus"). Tämä tietosuojakäytäntö selittää, kuinka keräämme, käytämme ja suojaamme henkilökohtaisia tietojasi, kun käytät sovellustamme. Käyttämällä sovellusta hyväksyt tietojesi keräämisen ja käytön tämän käytännön mukaisesti.
 
 **Keräämämme tiedot**
 
@@ -82,7 +82,7 @@ PL 100\
 
 **Introduktion**
 
-Välkommen till den kommunala parkeringsövervakningsappen ("Appen"). Denna integritetspolicy förklarar hur vi samlar in, använder och skyddar din personliga information när du använder vår App. Genom att använda Appen samtycker du till insamling och användning av din information enligt denna policy.
+Välkommen till den kommunala parkeringsövervakningsappen Helga ("Appen"). Denna integritetspolicy förklarar hur vi samlar in, använder och skyddar din personliga information när du använder vår App. Genom att använda Appen samtycker du till insamling och användning av din information enligt denna policy.
 
 **Information vi samlar in**
 
@@ -155,7 +155,7 @@ PB 100\
 
 **Introduction**
 
-Welcome to the Municipal Parking Enforcement App ("the App"). This Privacy Policy explains how we collect, use, and protect your personal information when you use our App. By using the App, you consent to the collection and use of your information as described in this policy.
+Welcome to the Helga App ("the App"). This Privacy Policy explains how we collect, use, and protect your personal information when you use our App. By using the App, you consent to the collection and use of your information as described in this policy.
 
 **Information We Collect**
 
