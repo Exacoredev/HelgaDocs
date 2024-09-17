@@ -5,17 +5,15 @@
 # url: "http://yourdomain.com" # URL of your site
 # theme: minima # Default theme is "minima"
 
-# # Markdown Processor Settings
-# kramdown:
-#   input: GFM  # GitHub Flavored Markdown (optional)
-#   hard_wrap: false  # Enables/disables <br> on single line breaks
-#   auto_ids: true    # Automatically generates IDs for headers
-#   syntax_highlighter: rouge  # Adds syntax highlighting for code blocks
+# Markdown Processor Settings
+kramdown:
+  input: GFM  # GitHub Flavored Markdown (optional)
+  hard_wrap: false  # Enables/disables <br> on single line breaks
+  auto_ids: true    # Automatically generates IDs for headers
+  syntax_highlighter: rouge  # Adds syntax highlighting for code blocks
 
-# # Build Settings
-# theme: minima  # Optional, set a theme
-# plugins:       # Optional, include any Jekyll plugins here
-#   - jekyll-feed  # Example: A plugin for RSS feeds
+# Build Settings
+theme: minima  # Optional, set a theme
 
-# # Permalinks
-# permalink: pretty  # Clean URLs without .html extension
+# Permalinks
+permalink: pretty  # Clean URLs without .html extension
