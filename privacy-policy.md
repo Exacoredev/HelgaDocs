@@ -1,3 +1,7 @@
+---
+layout: default
+title: Tietosuojakäytäntö - Integritetspolicy - Privacy Policy
+---
 # Tietosuojakäytäntö
 
 **Johdanto**
